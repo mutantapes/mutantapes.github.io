@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6483effd4d0f77d68a633bc952c35078930b4046",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6483effd4d0f77d68a633bc952c35078930b4046",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mega Mutant Ape Wrapped Matic",
+  "SYMBOL": "MMA",
+  "MAX_SUPPLY": 30000,
+  "WEI_COST": 100000000000000000 ,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mega-mutant-ape-wrapped-matic",
+  "SHOW_BACKGROUND": true
+}
